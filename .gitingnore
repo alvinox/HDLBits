@@ -1,2 +1,2 @@
-a.out
-wave.vcd
+*.out
+*.vcd
